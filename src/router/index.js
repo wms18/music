@@ -21,8 +21,6 @@ const HYDjradio = React.lazy(_ => import("../pages/discover/c-pages/djradio"));
 const HYArtist = React.lazy(_ => import("../pages/discover/c-pages/artist"));
 const HYAlbum = React.lazy(_ => import("../pages/discover/c-pages/album"));
 const HYPlayer = React.lazy(_ => import("../pages/player"));
-
-
 const HYFriend = React.lazy(_ => import("../pages/friend"));
 const HYMine = React.lazy(_ => import("../pages/mine"));
 

@@ -1,4 +1,4 @@
-import originAxios from 'axios';
+ import originAxios from 'axios';
 
 export default function request(option) {
 	return new Promise((resolve, reject) => {
