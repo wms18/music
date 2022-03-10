@@ -4,7 +4,7 @@
  * @Author: 吴毛三
  * @Date: 2021-11-24 14:31:02
  * @LastEditors: 吴毛三
- * @LastEditTime: 2022-03-10 20:29:10
+ * @LastEditTime: 2022-03-10 21:23:04
  */
 import React, { memo } from "react";
 
@@ -14,7 +14,6 @@ import { AlbumWrapper } from "./style";
 
 export default memo(function HYAlbumCover(props) {
   const { info, size = "100px", width = "118px", bgp = "-570px" } = props;
-  console.log("first");
   return (
     <AlbumWrapper size={size} width={width} bgp={bgp}>
       <div className="album-image">
