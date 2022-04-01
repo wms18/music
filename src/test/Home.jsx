@@ -4,7 +4,7 @@
  * @Author: 吴毛三
  * @Date: 2022-03-08 22:51:12
  * @LastEditors: 吴毛三
- * @LastEditTime: 2022-04-02 01:09:38
+ * @LastEditTime: 2022-04-02 01:26:50
  */
 import React from "react";
 
@@ -14,7 +14,8 @@ const Home = () => {
       <div>
         <div>dfhksalhjfkldsaj</div>
       </div>
-      <div>home</div>
+      <div>sdfhkjsahdfjksaldhfkjsdh</div>
+      <div>eijfalsfjlsa</div>
     </div>
   );
 };
